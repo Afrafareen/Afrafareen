@@ -1,6 +1,6 @@
 # Hi, I'm Afra Fareen 👋
 
-## 👩‍💻 About Me
+## 👩🏻‍💻 About Me
 
 I'm a B.Tech Information Technology graduate with a passion for Full Stack Web Development. I enjoy building responsive websites, exploring new technologies, and strengthening my programming skills through practical projects.
 
