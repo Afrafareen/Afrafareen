@@ -29,7 +29,6 @@ I'm always eager to learn, improve, and take on new challenges that help me grow
 ## 🚀 Projects
 
 * Personal Portfolio Website
-* More exciting projects coming soon!
 
 ## 🎯 Career Goal
 
@@ -39,7 +38,6 @@ My goal is to become a Full Stack Developer by continuously learning new technol
 
 * Improving my frontend development skills
 * Building real-world projects
-* Learning version control with Git and GitHub
 * Expanding my knowledge of backend development
 
 ## 🤝 Let's Connect
